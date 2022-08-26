@@ -1,6 +1,6 @@
 <h1 align="center">
   <img align="center" src="https://media1.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47tu1qphsen0javk7819d697046c78tkg7ork1l9xz&rid=giphy.gif&ct=s" alt="hello" height="40" width="50" />
-  Hi, I'm Rafaela Camargos Ribeiro
+  Olá, eu sou Rafaela Camargos Ribeiro
 </h1>
 
 <h3 align="center">Estudante de Desenvolvimento de Software na Trybe</h3>
