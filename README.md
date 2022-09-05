@@ -5,9 +5,29 @@
 
 <h3 align="center">Estudante de Desenvolvimento de Software na Trybe</h3>
 
-- 📚👩‍💻 Constantemente aprendendo **novas linguagens e frameworks.**
+**Sobre mim:**
 
-- 📫 Contato: **rafaela.camargos.ribeiro@gmail.com**
+- Sou desenvolvedora Full-stack 👩‍💻
+
+- Front-End é a minha paixão 💜
+
+- almejo aprender as melhores ferramentas e frameworks do desenvolvimento Front-End
+com o objetivo de me tornar uma profissional completa que possa ser capaz de inspirar
+outras pessoas a seguirem nessa área e se tornarem a melhor versão delas mesmas ✨
+
+- gosto de aprender coisas novas 🧠
+
+- meu sonho é viajar pelo mundo e aprender novas culturas 🌍
+
+**Meu hobby:**
+
+- Amo arte, e amo expressar meus sentimentos através de desenhos! 🎨
+
+
+**Contato:**
+
+**rafaela.camargos.ribeiro@gmail.com**📫
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
