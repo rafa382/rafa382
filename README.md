@@ -18,7 +18,7 @@ outras pessoas a seguirem nessa área e se tornarem a melhor versão delas mesma
 
 - gosto de aprender coisas novas 🧠
 
-- meu sonho é viajar pelo mundo e aprender novas culturas 🌍
+- meu sonho é viajar pelo mundo e conhecer novas culturas 🌍
 
 **Meu hobby:**
 
