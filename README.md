@@ -1,13 +1,14 @@
 <h1 align="center">
-  <img align="center" src="https://media1.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e47tu1qphsen0javk7819d697046c78tkg7ork1l9xz&rid=giphy.gif&ct=s" alt="hello" height="40" width="50" />
   Olá, eu sou Rafaela Camargos Ribeiro
 </h1>
 
 <h3 align="center">Estudante de Desenvolvimento de Software na Trybe</h3>
 
-**Sobre mim:**
+  <img align="right" src="https://media1.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47y0s4bw39pvs1j8xzs6d0i6i0owe0mjyv53qv3usw&rid=giphy.gif&ct=s" alt="girl-code" style="max-width: 100%; display: inline-block;" />
 
-- Sou desenvolvedora Full-stack 👩‍💻
+**Sobre mim:**                                                                  
+
+- Sou desenvolvedora Full-stack 👩‍💻                                                 
 
 - Front-End é a minha paixão 💜
 
