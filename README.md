@@ -2,7 +2,7 @@
   Olá, eu sou Rafaela Camargos Ribeiro
 </h1>
 
-<h3 align="center">Estudante de Desenvolvimento de Software na Trybe</h3>
+<h3 align="center">Desenvolvedora Web Full Stack</h3>
 
   <img align="right" src="https://media1.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47y0s4bw39pvs1j8xzs6d0i6i0owe0mjyv53qv3usw&rid=giphy.gif&ct=s" alt="girl-code" style="max-width: 100%; display: inline-block;" />
 
