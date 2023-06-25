@@ -12,7 +12,7 @@
 
 - Front-End é a minha paixão 💜
 
-- almejo aprender as melhores ferramentas e frameworks do desenvolvimento Front-End
+- almejo aprender as melhores ferramentas e frameworks do desenvolvimento Full Stack
 com o objetivo de me tornar uma profissional completa que possa ser capaz de inspirar
 outras pessoas a seguirem nessa área e se tornarem a melhor versão delas mesmas ✨
 
@@ -22,7 +22,7 @@ outras pessoas a seguirem nessa área e se tornarem a melhor versão delas mesma
 
 **Meu hobby:**
 
-- Amo arte, e amo expressar meus sentimentos através de desenhos! 🎨
+- Amo arte, e gosto de expressar meus sentimentos através de desenhos! 🎨
 
 
 **Contato:**
